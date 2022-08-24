@@ -1,4 +1,4 @@
-# E-Commerce database
+# E-Commerce backend mapping with database
 
 ## Description 
 # Table of Contents
@@ -7,7 +7,6 @@
 3. [Using_the_Application](#Using the Application)
 4. [Images](#Images)
 5. [Questions](#Questions)
-
 
 ## Description 
 The application provides a solutuion for an ecommerce website to show the backend coding and initiate routing for different endpoints for users. The app uses node.js, express.js , MySql and sequelize to direct users to different pages / data on the site.
@@ -31,10 +30,20 @@ we use connet to the server via dotenv.
 ## Using the Application
 The application can be used with the help of software Insomnia, which directs us through the different routes and return us the data accordingly.
 
-## Images
-Below are the screenshot for the applicaton. 
+## Images/Assets
+Below are the screenshot for the applicaton.
+### Tags - GET 
+ ./Assets/getTags.jpg
 
-Also we can find the walk through of the functionality of the code / application at : 
+### Tags - POST
+ ./Assets/postNewTags.jpg
+
+### Tags - DEL 
+ ./Assets/DeleteTags.jpg
+
+
+### WawlkThrought Video 
+Also we can find the walk through of the functionality of the code / application at : https://drive.google.com/file/d/1_YP6EmGV16AZdzvIs_8jBHym8uUwzP_T/view
 
 ## Question
 For questions can be directed to me at the below addresses :
