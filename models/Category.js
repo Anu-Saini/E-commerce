@@ -1,8 +1,9 @@
 // import important parts of sequelize library
 const { Model, DataTypes } = require("sequelize");
+
 // import our database connection from config.js
 const sequelize = require("../config/connection.js");
-const Product = require("./Product.js");
+//const Product = require("./Product.js");
 
 // Create a new Sequelize model for Category
 class Category extends Model {}
@@ -15,7 +16,7 @@ Category.init(
       allowNull: false,
       primaryKey: true,
       autoIncrement: true,
-    },
+     },
     category_name: {
       type: DataTypes.STRING,
       allowNull: false,
