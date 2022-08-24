@@ -30,17 +30,21 @@ we use connet to the server via dotenv.
 ## Using the Application
 The application can be used with the help of software Insomnia, which directs us through the different routes and return us the data accordingly.
 
+
 ## Images/Assets
 Below are the screenshot for the applicaton.
+
 ### Tags - GET 
- ./Assets/getTags.jpg
+
+![In Insomnia, the user tests GET route for tags,Categories and Products.”.](./Assets/getTags.jpg)
 
 ### Tags - POST
- ./Assets/postNewTags.jpg
+
+![In Insomnia, the user tests POST route for tags,Categories and Products.”.](./Assets/postNewTags.jpg)
 
 ### Tags - DEL 
- ./Assets/DeleteTags.jpg
 
+![In Insomnia, the user tests DELETE route for tags,Categories and Products.”.](./Assets/DeleteTags.jpg)
 
 ### WawlkThrought Video 
 Also we can find the walk through of the functionality of the code / application at : https://drive.google.com/file/d/1_YP6EmGV16AZdzvIs_8jBHym8uUwzP_T/view
