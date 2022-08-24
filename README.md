@@ -3,8 +3,8 @@
 ## Description 
 # Table of Contents
 1. [Description](#Description)
-2. [Software_Installation](#Software Installation)
-3. [Using_the_Application](#Using the Application)
+2. [Software_Installation](#Software_Installation)
+3. [Using_the_Application](#Using_the_Application)
 4. [Images](#Images)
 5. [Questions](#Questions)
 
